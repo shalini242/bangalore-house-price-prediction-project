@@ -23,7 +23,7 @@ Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 # Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask and bootstrap.
 
-![Final_Website](https://user-images.githubusercontent.com/75796904/130605278-7b1d9c54-6c73-4e69-8cdc-056ad0c93a45.png)
+![Final_Website](https://github.com/shalini242/bangalore-house-price-prediction-project/blob/main/Screenshot%202024-04-11%20152737.png)
 
 
 # Future Scope :
